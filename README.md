@@ -1,4 +1,4 @@
-# asciichart
+# asciichart [![Build Status](https://travis-ci.org/cashlo/asciichart.svg?branch=master)](https://travis-ci.org/cashlo/asciichart)
 Very simple Python module for ASCII charts
 
 ## How to use
